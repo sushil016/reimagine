@@ -1,1 +1,1 @@
-# reimagine
+# reimagine <mini project>
